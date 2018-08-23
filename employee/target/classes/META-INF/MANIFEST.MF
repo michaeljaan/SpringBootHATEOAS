@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.cg.employee
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nagasr
+Implementation-Vendor-Id: com.cg
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/employee
+Created-By: Maven Integration for Eclipse
+
